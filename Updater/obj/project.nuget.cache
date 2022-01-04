@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hdEceh/9MduweLfUd8lAqkU60DRasCt23h/RjSBHF6vJcpTYsX3qK8VFj3RmnpdXuuxNzXu31ze0BA9zYvRg2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USeR-050716\\Documents\\Visual Studio Projects\\Updater\\Updater\\Updater.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USeR-050716\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.7\\microsoft.netcore.app.host.win-x64.5.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
